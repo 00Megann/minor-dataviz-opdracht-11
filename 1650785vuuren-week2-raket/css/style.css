@@ -1,0 +1,25 @@
+* {
+	color: black;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+body {
+	background-color: white;
+}
+
+h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+}
+
+h2 {
+	font-style: italic;
+	font-size: 20px;
+	text-align: center;
+}
+
+svg {
+	background-image: url(../img/grid.svg);
+	margin: 0 auto;
+	display: block;
+}
